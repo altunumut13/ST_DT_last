@@ -1,0 +1,13 @@
+streamlit==0.83.0
+geopy==2.1.0
+plotly==5.0.0
+streamlit_folium==0.4.0
+tqdm==4.61.1
+numpy==1.20.1
+folium==0.11.0
+geopandas==0.9.0
+matplotlib==3.4.1
+pandas==1.1.3
+pyodbc==4.0.30
+Pillow==8.2.0
+sql_queries==0.1.2
