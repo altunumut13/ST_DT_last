@@ -3,7 +3,6 @@ from sys import meta_path
 from pandas.core.indexes.api import get_objs_combined_axis
 import streamlit as st
 # MAP QUERIES
-import pyodbc
 import pandas as pd
 import numpy as np
 import folium
