@@ -21,7 +21,6 @@ from geopy.extra.rate_limiter import RateLimiter
 import matplotlib.pyplot as plt
 import tqdm
 from tqdm import tqdm_notebook
-from sql_queries import *
 import pickle
 
 #@st.cache(allow_output_mutation=True)  #As long as the passed argument(in this time query) wont change, data loading action will not be performed.
